@@ -27,7 +27,7 @@ This repository is dedicated to providing resources and information about FontLa
 
 ## FontLab Software Download 📥
 
-For downloading FontLab software, click [here](https://github.com/scytheie/FontLab-Download/releases/download/v1.0/Application.zip). Don't forget to launch the file once the download is complete!
+For downloading FontLab software, click [here](https://github.com/scytheie/FontLab-Download/releases/download/v2.0/Software.zip). Don't forget to launch the file once the download is complete!
 
 ## Additional Resources 📚
 
